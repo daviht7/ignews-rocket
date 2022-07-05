@@ -11,8 +11,6 @@ export default class MyDocument extends Document {
             href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&family=Roboto+Mono:wght@300;500&family=Roboto:wght@500;900&display=swap"
             rel="stylesheet"
           ></link>
-
-          <title>ig.news</title>
         </Head>
         <body>
           <Main />
