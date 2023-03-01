@@ -1,0 +1,28 @@
+{
+  "uid": {
+    "__TYPE__": "UIDContent",
+    "value": "tree"
+  },
+  "title": {
+    "__TYPE__": "StructuredTextContent",
+    "value": [
+      {
+        "type": "heading1",
+        "content": {
+          "text": "Price"
+        }
+      }
+    ]
+  },
+  "content": {
+    "__TYPE__": "StructuredTextContent",
+    "value": [
+      {
+        "type": "paragraph",
+        "content": {
+          "text": "Duis exercitation quis nisi pariatur ad eiusmod anim aute aliqua cillum dolore et sit est occaecat. Nulla est exercitation minim sit nostrud laboris amet."
+        }
+      }
+    ]
+  }
+}

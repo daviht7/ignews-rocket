@@ -8,8 +8,6 @@ import { FaGithub } from 'react-icons/fa'
 export function SignInButton() {
   const [session] = useSession();
 
-  console.log(session);
-
   return session ? (
     <button
       type="button"
